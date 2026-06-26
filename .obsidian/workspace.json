@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "c14ba77c6707e72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fb0afdc566058b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2b3657815249e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. ClaudeCode简介"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e500a27967d6dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a24599bc33437290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b1101786c40ead7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "85feb8bbdf41852a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fb0473247926ff34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b091d69d9d736317",
+    "type": "split",
+    "children": [
+      {
+        "id": "82634d833f865a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6952651048c7d8f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "6130733191781532",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "adac560391effb00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e2730b318fa6e1a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "871b163a34a2e118",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "a07f965e4175bc47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "e2b3657815249e0e",
+  "lastOpenFiles": [
+    "研发/AI/Markdown.md",
+    "研发/assets/v2-7d0d7de77ddb6e230d02df1a91de0cd1_1440w.png",
+    "研发/AI/Mermaid流程图.md",
+    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
+    "研发/assets",
+    "研发/AI/ClaudeCode/assets",
+    "研发/AI/ClaudeCode/新建文件夹",
+    "研发/趣图/AICoder_2026.jpg",
+    "研发/趣图/百虾大战_2026.jpg",
+    "研发/趣图",
+    "研发/AI/术语表/AITest.md",
+    "研发/AI/术语表/AIFAQ.md",
+    "研发/AI/术语表/AIDE术语.md",
+    "研发/AI/术语表/AI通用术语.md",
+    "研发/AI/README.md",
+    "研发/README.md",
+    "研发/AI/Auth.md",
+    "SUMMARY.md",
+    "README.md",
+    "管理/case.md",
+    "管理/case_2024.md",
+    "管理/principle.md",
+    "管理/README.md",
+    "WorkNotes.md",
+    "AI/Markdown.md",
+    "文件名.md",
+    "AI/ClaudeCode/1. ClaudeCode简介.md",
+    "AI/Mermaid流程图.md",
+    "AI/ClaudeCode/2. ClaudeCode使用.md",
+    "AI/ClaudeCode/9. 常见问题.md",
+    "AI/术语表/AIDE术语.md",
+    "AI/术语表/AI通用术语.md",
+    "AI/术语表",
+    "AI/CodeX",
+    "未命名.base",
+    "AI/ClaudeCode",
+    "管理",
+    "AI"
+  ]
+}
