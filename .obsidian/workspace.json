@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac3dbf0a69af925",
+        "id": "b8b65d8b54e1d5fc",
         "type": "tabs",
         "children": [
           {
-            "id": "9937bb8a908fbbf0",
+            "id": "ec9d210150e8841c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "1. ClaudeCode简介"
             }
           }
         ]
@@ -189,48 +193,48 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9937bb8a908fbbf0",
+  "active": "ec9d210150e8841c",
   "lastOpenFiles": [
+    "产品/想法.md",
     "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
     "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
-    "研发/AI/Mermaid流程图.md",
+    "研发/趣图/AICoder_2026.jpg",
+    "研发/趣图/百虾大战_2026.jpg",
+    "研发/AI/Markdown.md",
     "研发/AI/ClaudeCode/9. 常见问题.md",
+    "研发/AI/CodeX/CodeX简介.md",
+    "研发/AI/CodeX/CodeX使用.md",
+    "研发/AI/多模态RAG/多模态RAG开源仓库.md",
+    "研发/服务器/常用指令.md",
+    "研发/AI/股票量化/股票量化开源仓库.md",
+    "管理/SOT/反思.md",
+    "管理/项目管理.md",
+    "管理/case.md",
+    "管理/README.md",
+    "管理/principle.md",
+    "管理/case_2024.md",
+    "研发/服务器/搜索方案.md",
+    "研发/AI/Auth.md",
+    "管理/SOT",
+    "产品",
+    "2026-06-28.md",
+    "研发/AI/股票量化",
+    "研发/AI/多模态RAG",
+    "研发/服务器",
+    "研发/AI/Mermaid流程图.md",
     "研发/assets/ClaudeCode-20260627221306.png",
     "研发/assets/ClaudeCode-20260627220944.png",
     "研发/assets/ClaudeCode-20260627220616.png",
-    "研发/AI/CodeX/CodeX简介.md",
     "研发/AI/README.md",
     "研发/README.md",
     "README.md",
     "SUMMARY.md",
     "WorkNotes.md",
-    "研发/AI/Markdown.md",
     "研发/assets/v2-7d0d7de77ddb6e230d02df1a91de0cd1_1440w.png",
     "研发/assets",
     "研发/AI/ClaudeCode/assets",
     "研发/AI/ClaudeCode/新建文件夹",
-    "研发/趣图/AICoder_2026.jpg",
-    "研发/趣图/百虾大战_2026.jpg",
     "研发/趣图",
-    "研发/AI/术语表/AITest.md",
-    "研发/AI/术语表/AIFAQ.md",
-    "研发/AI/术语表/AIDE术语.md",
-    "研发/AI/术语表/AI通用术语.md",
-    "研发/AI/Auth.md",
-    "管理/case.md",
-    "管理/case_2024.md",
-    "管理/principle.md",
-    "管理/README.md",
-    "AI/Markdown.md",
-    "文件名.md",
-    "AI/ClaudeCode/1. ClaudeCode简介.md",
-    "AI/Mermaid流程图.md",
-    "AI/ClaudeCode/2. ClaudeCode使用.md",
-    "AI/术语表",
-    "AI/CodeX",
-    "未命名.base",
-    "AI/ClaudeCode",
-    "管理",
-    "AI"
+    "AI/术语表"
   ]
 }

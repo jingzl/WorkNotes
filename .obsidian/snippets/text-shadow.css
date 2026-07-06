@@ -1,0 +1,15 @@
+/* 自定义阴影类 */
+.txt-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* 霓虹发光阴影 */
+.neon-glow {
+    text-shadow: 0 0 3px #FFD700, 0 0 20px #FFA500, 0 0 30px #FF6347;
+}
+
+/* 描边效果（模拟） */
+.txt-outline {
+    color: white;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
