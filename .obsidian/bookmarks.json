@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1783489576979,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1783489590466,
+          "items": [],
+          "title": "研发"
+        },
+        {
+          "type": "group",
+          "ctime": 1783647220375,
+          "items": [],
+          "title": "产品"
+        },
+        {
+          "type": "group",
+          "ctime": 1783647220375,
+          "items": [],
+          "title": "管理"
+        },
+        {
+          "type": "file",
+          "ctime": 1783647220376,
+          "path": "README.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1783647220376,
+          "path": "SUMMARY.md",
+          "subpath": "#^-"
+        },
+        {
+          "type": "file",
+          "ctime": 1783647220376,
+          "path": "WorkNotes.md",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
