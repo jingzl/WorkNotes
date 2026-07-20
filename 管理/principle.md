@@ -1,2 +1,0 @@
-# Principle
-原则
