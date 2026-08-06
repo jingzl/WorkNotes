@@ -1,4 +1,8 @@
 
+[HKUDS/VideoRAG: [KDD'2026] "VideoRAG: Chat with Your Videos"](https://github.com/HKUDS/VideoRAG)
+[arxiv.org/abs/2502.01549](https://arxiv.org/abs/2502.01549)
+
+
 [Alibaba-NLP/VRAG: Multimodal Retrieval-augmented Generation Framework Built by Tongyi Lab, Alibaba Group.](https://github.com/Alibaba-NLP/VRAG)
 
 
