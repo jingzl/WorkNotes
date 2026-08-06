@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47185e1cf26c3db8",
+        "id": "3cca8dc3efc566c4",
         "type": "tabs",
         "children": [
           {
-            "id": "b93e4856ea256aa2",
+            "id": "f26f0c9a1e535fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "产品/NeedBetter & Ideas.md",
+                "file": "研发/AI/X-LAB/RuView研究.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NeedBetter & Ideas"
+              "title": "RuView研究"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研发/AI/Markdown.md",
+                "file": "研发/AI/X-LAB/RuView研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Markdown 的反向链接列表"
+              "title": "RuView研究 的反向链接列表"
             }
           },
           {
@@ -194,12 +194,27 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b93e4856ea256aa2",
+  "active": "f26f0c9a1e535fc2",
   "lastOpenFiles": [
+    "研发/AI/X-LAB/TSmartCall研究.md",
+    "研发/AI/X-LAB/RuView研究.md",
+    "研发/AI/术语表/AITest.md",
+    "研发/AI/术语表/AI通用术语.md",
+    "研发/AI/术语表/AIFAQ.md",
     "研发/AI/世界模型/世界模型索引.md",
+    "研发/AI/X-LAB",
+    "研发/AI/多模态RAG/多模态RAG开源仓库.md",
+    "产品/NeedBetter.md",
+    "产品/Ideas.md",
+    "WorkNotes.md",
     "管理/README.md",
+    "管理/项目管理/项目管理.md",
+    "管理/项目管理",
+    "管理/case.md",
+    "管理/case_2024.md",
     "管理/管理原则.md",
-    "管理/项目管理.md",
+    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
+    "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
     "研发/工具收集.md",
     "研发/TechBoard.md",
     "研发/开源收集.md",
@@ -208,26 +223,13 @@
     "产品/趣图/百虾大战_2026.jpg",
     "产品/趣图/AICoder_2026.jpg",
     "研发/assets/ClaudeCode-20260627221306.png",
-    "产品/NeedBetter & Ideas.md",
     "研发/AI/世界模型",
-    "管理/case_2024.md",
-    "管理/case.md",
     "管理/SOT/反思.md",
     "研发/服务器/常用指令.md",
-    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
     "研发/服务器/Auth.md",
     "研发/语言/Mermaid流程图.md",
     "研发/语言/Markdown.md",
     "研发/语言",
-    "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
-    "研发/AI/Markdown.md",
-    "研发/AI/ClaudeCode/9. 常见问题.md",
-    "研发/AI/CodeX/CodeX简介.md",
-    "研发/AI/CodeX/CodeX使用.md",
-    "研发/AI/多模态RAG/多模态RAG开源仓库.md",
-    "研发/AI/股票量化/股票量化开源仓库.md",
-    "研发/服务器/搜索方案.md",
-    "研发/AI/Auth.md",
     "管理/SOT",
     "产品",
     "研发/AI/股票量化",
@@ -235,8 +237,6 @@
     "研发/服务器",
     "研发/assets/ClaudeCode-20260627220944.png",
     "研发/assets/ClaudeCode-20260627220616.png",
-    "研发/assets/v2-7d0d7de77ddb6e230d02df1a91de0cd1_1440w.png",
-    "研发/assets",
-    "研发/AI/ClaudeCode/assets"
+    "研发/assets/v2-7d0d7de77ddb6e230d02df1a91de0cd1_1440w.png"
   ]
 }
