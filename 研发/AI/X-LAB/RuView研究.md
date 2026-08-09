@@ -5,6 +5,7 @@
 
 **作者主页**：[ruvnet (rUv)](https://github.com/ruvnet)
 
+Human Tracking Through Walls Using WiFi Signals
 
 
 
@@ -24,6 +25,11 @@ https://www.chenxutan.com/d/3493.html
 - [TURBIG/RuView - TURBIG - Gitee.com](https://gitee.com/turbig/RuView)
 - [TRuView: 基于RuView的本地化定制修改](https://gitee.com/turbig/TRuView)
 
+
+### 2.2 计划
+第一阶段：本地编译，采用模拟数据展示系统功能。
+
+第二阶段：
 
 
 
