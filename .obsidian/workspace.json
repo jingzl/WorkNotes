@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3cca8dc3efc566c4",
+        "id": "4f26353bd9502850",
         "type": "tabs",
         "children": [
           {
-            "id": "f26f0c9a1e535fc2",
+            "id": "d04ed6947881b8c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研发/AI/X-LAB/RuView研究.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RuView研究"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研发/AI/X-LAB/RuView研究.md",
+                "file": "研发/AI/X-LAB/TSmartCall研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "RuView研究 的反向链接列表"
+              "title": "TSmartCall研究 的反向链接列表"
             }
           },
           {
@@ -194,10 +192,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f26f0c9a1e535fc2",
+  "active": "d04ed6947881b8c8",
   "lastOpenFiles": [
-    "研发/AI/X-LAB/TSmartCall研究.md",
+    "研发/AI/CodeX/CodeX使用.md",
+    "研发/AI/CodeX/CodeX简介.md",
+    "研发/AI/股票量化/股票量化开源仓库.md",
+    "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
+    "研发/AI/ClaudeCode/9. 常见问题.md",
+    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
+    "研发/AI/X-LAB/AI开发方法.md",
     "研发/AI/X-LAB/RuView研究.md",
+    "研发/AI/X-LAB/TSmartCall研究.md",
+    "研发/AI/X-LAB/FreeSwitch.md",
     "研发/AI/术语表/AITest.md",
     "研发/AI/术语表/AI通用术语.md",
     "研发/AI/术语表/AIFAQ.md",
@@ -213,22 +219,14 @@
     "管理/case.md",
     "管理/case_2024.md",
     "管理/管理原则.md",
-    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
-    "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
     "研发/工具收集.md",
     "研发/TechBoard.md",
     "研发/开源收集.md",
-    "研发/算法/algorithm.md",
     "研发/算法",
     "产品/趣图/百虾大战_2026.jpg",
     "产品/趣图/AICoder_2026.jpg",
     "研发/assets/ClaudeCode-20260627221306.png",
     "研发/AI/世界模型",
-    "管理/SOT/反思.md",
-    "研发/服务器/常用指令.md",
-    "研发/服务器/Auth.md",
-    "研发/语言/Mermaid流程图.md",
-    "研发/语言/Markdown.md",
     "研发/语言",
     "管理/SOT",
     "产品",
