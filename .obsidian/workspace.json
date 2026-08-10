@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f26353bd9502850",
+        "id": "8cbc8094bb2f17d6",
         "type": "tabs",
         "children": [
           {
-            "id": "d04ed6947881b8c8",
+            "id": "efc793611a8b0da8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "研发/X-LAB/TRuView研究.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "TRuView研究"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -76,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 267.5
   },
   "right": {
     "id": "b091d69d9d736317",
@@ -192,36 +196,40 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d04ed6947881b8c8",
+  "active": "efc793611a8b0da8",
   "lastOpenFiles": [
     "研发/AI/CodeX/CodeX使用.md",
+    "研发/X-LAB/AI开发方法.md",
+    "研发/X-LAB/TSmartCall研究.md",
+    "学习/读书笔记",
+    "学习/书单",
+    "学习",
+    "研发/开源/如何选择开源许可证.md",
+    "研发/assets/开源许可证-20260809113602.png",
+    "研发/开源/开源收集.md",
+    "研发/开源",
+    "研发/WishList(电脑工具清单).md",
+    "研发/README.md",
+    "研发/工具收集.md",
+    "研发/TechBoard.md",
     "研发/AI/CodeX/CodeX简介.md",
     "研发/AI/股票量化/股票量化开源仓库.md",
     "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
     "研发/AI/ClaudeCode/9. 常见问题.md",
     "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
-    "研发/AI/X-LAB/AI开发方法.md",
-    "研发/AI/X-LAB/RuView研究.md",
-    "研发/AI/X-LAB/TSmartCall研究.md",
-    "研发/AI/X-LAB/FreeSwitch.md",
+    "研发/X-LAB/TRuView研究.md",
+    "研发/X-LAB/FreeSwitch.md",
     "研发/AI/术语表/AITest.md",
     "研发/AI/术语表/AI通用术语.md",
     "研发/AI/术语表/AIFAQ.md",
     "研发/AI/世界模型/世界模型索引.md",
-    "研发/AI/X-LAB",
+    "研发/X-LAB",
     "研发/AI/多模态RAG/多模态RAG开源仓库.md",
     "产品/NeedBetter.md",
     "产品/Ideas.md",
     "WorkNotes.md",
     "管理/README.md",
-    "管理/项目管理/项目管理.md",
     "管理/项目管理",
-    "管理/case.md",
-    "管理/case_2024.md",
-    "管理/管理原则.md",
-    "研发/工具收集.md",
-    "研发/TechBoard.md",
-    "研发/开源收集.md",
     "研发/算法",
     "产品/趣图/百虾大战_2026.jpg",
     "产品/趣图/AICoder_2026.jpg",
@@ -229,10 +237,6 @@
     "研发/AI/世界模型",
     "研发/语言",
     "管理/SOT",
-    "产品",
-    "研发/AI/股票量化",
-    "研发/AI/多模态RAG",
-    "研发/服务器",
     "研发/assets/ClaudeCode-20260627220944.png",
     "研发/assets/ClaudeCode-20260627220616.png",
     "研发/assets/v2-7d0d7de77ddb6e230d02df1a91de0cd1_1440w.png"
