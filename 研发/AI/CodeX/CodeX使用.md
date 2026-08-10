@@ -40,7 +40,22 @@ The extension couldn't load its resources.
     "http.proxyStrictSSL": false
 ```
 问题解决。
-发布CSDN博客：[VSCode+CodeX扩展，无法启动-CSDN博客](https://blog.csdn.net/james506/article/details/163605963)
+
+**产生的新问题**：VSCode的 settings.json 配置，针对 http.proxy 的处理，直接导致github本身的copilot 失效，都去走cc-swtich代理了，导致无效。
+影响主要有两处：
+- git 提交时生成提交消息，无法生成。
+- github copilot的聊天无法使用，都有free额度，主要是gpt-5的模型。
+所以在不用codex的情况下，可以考虑把代理注释掉，需要的时候打开：
+```BASH
+    "codex.apiKey": "cc-switch",
+    "codex.baseUrl": "http://127.0.0.1:15721/v1",
+    "http.proxyAuthorization": null
+    //"http.proxy": "http://127.0.0.1:15721",
+    //"http.proxyStrictSSL": false
+```
+
+
+更新博客：[VSCode+CodeX扩展无法启动及关联github copilot影响-CSDN博客](https://blog.csdn.net/james506/article/details/163605963)
 
 
 
