@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbc8094bb2f17d6",
+        "id": "8e7d879ba9ada157",
         "type": "tabs",
         "children": [
           {
-            "id": "efc793611a8b0da8",
+            "id": "4a0913476e84054f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研发/X-LAB/TRuView研究.md",
+                "file": "研发/X-LAB/TSmartCall研究.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TRuView研究"
+              "title": "TSmartCall研究"
             }
           }
         ]
@@ -196,11 +196,20 @@
       "bases:新建数据库": false
     }
   },
-  "active": "efc793611a8b0da8",
+  "active": "4a0913476e84054f",
   "lastOpenFiles": [
-    "研发/AI/CodeX/CodeX使用.md",
+    "学习/书单/电子书.md",
     "研发/X-LAB/AI开发方法.md",
+    "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
+    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
+    "研发/AI/CodeX/CodeX简介.md",
+    "研发/AI/CodeX/CodeX使用.md",
+    "研发/README.md",
+    "研发/硬件/ESP.md",
+    "研发/AI/股票量化/股票量化开源仓库.md",
+    "研发/硬件",
     "研发/X-LAB/TSmartCall研究.md",
+    "研发/X-LAB/TRuView研究.md",
     "学习/读书笔记",
     "学习/书单",
     "学习",
@@ -209,15 +218,9 @@
     "研发/开源/开源收集.md",
     "研发/开源",
     "研发/WishList(电脑工具清单).md",
-    "研发/README.md",
     "研发/工具收集.md",
     "研发/TechBoard.md",
-    "研发/AI/CodeX/CodeX简介.md",
-    "研发/AI/股票量化/股票量化开源仓库.md",
-    "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
     "研发/AI/ClaudeCode/9. 常见问题.md",
-    "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
-    "研发/X-LAB/TRuView研究.md",
     "研发/X-LAB/FreeSwitch.md",
     "研发/AI/术语表/AITest.md",
     "研发/AI/术语表/AI通用术语.md",
@@ -228,7 +231,6 @@
     "产品/NeedBetter.md",
     "产品/Ideas.md",
     "WorkNotes.md",
-    "管理/README.md",
     "管理/项目管理",
     "研发/算法",
     "产品/趣图/百虾大战_2026.jpg",
@@ -236,7 +238,6 @@
     "研发/assets/ClaudeCode-20260627221306.png",
     "研发/AI/世界模型",
     "研发/语言",
-    "管理/SOT",
     "研发/assets/ClaudeCode-20260627220944.png",
     "研发/assets/ClaudeCode-20260627220616.png",
     "研发/assets/v2-7d0d7de77ddb6e230d02df1a91de0cd1_1440w.png"
