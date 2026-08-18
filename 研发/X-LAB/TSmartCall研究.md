@@ -12,6 +12,9 @@
 - [h9-tec/Call-center-AI-local](https://github.com/h9-tec/Call-center-AI-local)
 
 
+工具：
+- [MicroSIP Downloads - Installer and Portable Version](https://www.microsip.org/downloads)，在window上运行时，务必要使用管理员运行，避免无法创建账户并连接。
+
 
 
 Twilio 
