@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研发/X-LAB/TSmartCall研究.md",
+                "file": "研发/开源/开源收集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TSmartCall研究"
+              "title": "开源收集"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "4a0913476e84054f",
   "lastOpenFiles": [
+    "研发/X-LAB/TSmartCall研究.md",
     "学习/书单/电子书.md",
     "研发/X-LAB/AI开发方法.md",
     "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
@@ -208,7 +209,6 @@
     "研发/硬件/ESP.md",
     "研发/AI/股票量化/股票量化开源仓库.md",
     "研发/硬件",
-    "研发/X-LAB/TSmartCall研究.md",
     "研发/X-LAB/TRuView研究.md",
     "学习/读书笔记",
     "学习/书单",
