@@ -1,9 +1,5 @@
-# Summary
 - [前言](README.md)
-- [开发](1.dev/README.md)
-  - [研发配置](1.dev/config.md)
-- [管理](2.mgr/README.md)
-  - [原则](2.mgr/principle.md)
-  - [所想](2.mgr/case.md)
-    - [2024](2.mgr/case_2024.md)
-- [创业](3.tbg/README.md)
+- 学习
+- [研发](研发/README.md)
+- [管理](管理/README.md)
+- 产品
