@@ -1,5 +1,26 @@
 整理开发中积累的各种开源库、框架、工具、方法等，为现有技术做积累及未来技术方向做索引。
 
+**FRP**
+[fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.](https://github.com/fatedier/frp)
+
+
+**OLLAMA**
+[Ollama](https://ollama.com/)
+[ollama/ollama: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.](https://github.com/ollama/ollama)
+
+
+**轩辕镜像**
+[轩辕镜像 - Docker 镜像高效稳定拉取服务](https://xuanyuan.cloud/)
+
+
+
+**NSSM**
+[NSSM - the Non-Sucking Service Manager](https://nssm.cc/)
+
+
+
+
+
 ## 语言
 C/C++、Python、Java、Php、Shell、Go、Sql、HTML、CSS、JavaScript
 UML：2022年后，用的很少了。
