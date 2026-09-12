@@ -19,12 +19,26 @@ PS C:\> sc.exe start frpc
 直接运行FRPC没问题，这样启动服务就报错，通过查找windows事件查看器，找到原因：
 frpc作为服务启动时，Windows服务管理器（SCM）在等待frpc响应时超时了。问题在于frpc默认是前台程序，它不会向服务管理器发送"服务已启动"的信号。frpc是控制台应用程序，不是专门为Windows服务设计的程序。它启动后不会调用 `StartServiceCtrlDispatcher` 函数，所以Windows认为它没有响应。
 最后解决方案：使用**nssm**（[NSSM - the Non-Sucking Service Manager](https://nssm.cc/download)），是专门解决这类问题的工具，它会在frpc和Windows服务管理器之间充当代理。
-安装后，运行时根据界面提示进行相关参数设置即可。
+安装后，运行时根据界面提示进行相关参数设置即可，==注意要使用管理员权限打开终端==。
+```Shell
+.\nssm.exe install frpc
+```
+在弹出窗口中配置，Service name 输入服务名称，不要带特殊字符：
+- **Application** -> **Path**：`C:\Programs\frp_0.71.0\frpc.exe`
+- **Application** -> **Arguments**：`-c C:\Programs\frp_0.71.0\frpc.toml`
+- **Startup type**：`Automatic (Delayed Start)`（延迟启动，避免开机时网络未就绪）
+- **I/O** 标签页：
+    - **Output (stdout)**：`C:\Programs\frp_0.71.0\logs\frpc.log`
+    - **Error (stderr)**：`C:\Programs\frp_0.71.0\logs\frpc_error.log`
+处理完毕后，重启服务：
+``` Shell
+.\nssm.exe start frpc
+```
 至此，FRP相关工作处理完毕，两个端口均进行了转换映射，注意不要直接将22和3389对外打开。
 
 ## 3. SSH
 参考：[适用于 Windows 的 OpenSSH 服务器配置 | Microsoft Learn](https://learn.microsoft.com/zh-cn/windows-server/administration/OpenSSH/openssh-server-configuration)
-1）**服务器上添加安装 OpenSSH**，并启动。
+1）**服务器上添加安装 OpenSSH**，并启动（已管理员权限启动终端）。
 ```BASH
 # 确认服务在运行
 Get-Service sshd
