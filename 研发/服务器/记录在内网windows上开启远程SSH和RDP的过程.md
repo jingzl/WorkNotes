@@ -32,7 +32,15 @@ frpc作为服务启动时，Windows服务管理器（SCM）在等待frpc响应�
     - **Error (stderr)**：`C:\Programs\frp_0.71.0\logs\frpc_error.log`
 处理完毕后，重启服务：
 ``` Shell
+# 启动
 .\nssm.exe start frpc
+
+# 查看状态
+.\nssm.exe status frpc
+
+# 重启
+.\nssm.exe restart frpc
+
 ```
 至此，FRP相关工作处理完毕，两个端口均进行了转换映射，注意不要直接将22和3389对外打开。
 
