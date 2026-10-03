@@ -2,7 +2,7 @@
 
 
 
-
+使用CC-Switch配置国内源的多种模型来使用CodeX。
 
 
 
@@ -53,7 +53,6 @@ The extension couldn't load its resources.
     //"http.proxy": "http://127.0.0.1:15721",
     //"http.proxyStrictSSL": false
 ```
-
 
 更新博客：[VSCode+CodeX扩展无法启动及关联github copilot影响-CSDN博客](https://blog.csdn.net/james506/article/details/163605963)
 
