@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09f59474a583f46d",
+        "id": "93f4bb2ebfe93063",
         "type": "tabs",
         "children": [
           {
-            "id": "479ad54ef3bf6fb0",
+            "id": "85fd9060861145ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研发/WishList(电脑工具清单).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WishList(电脑工具清单)"
+              "title": "新标签页"
             }
           }
         ]
@@ -196,10 +192,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "479ad54ef3bf6fb0",
+  "active": "85fd9060861145ed",
   "lastOpenFiles": [
-    "研发/服务器/ubuntu系统初始化.md",
     "研发/WishList(电脑工具清单).md",
+    "研发/服务器/ubuntu系统初始化.md",
     "研发/服务器/Docker.md",
     "研发/TechBoard.md",
     "研发/AI/IDE/AI开发方法.md",
