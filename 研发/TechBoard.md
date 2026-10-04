@@ -3,19 +3,28 @@
 **FRP**
 [fatedier/frp: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.](https://github.com/fatedier/frp)
 
-
 **OLLAMA**
 [Ollama](https://ollama.com/)
 [ollama/ollama: Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.](https://github.com/ollama/ollama)
 
-
 **轩辕镜像**
 [轩辕镜像 - Docker 镜像高效稳定拉取服务](https://xuanyuan.cloud/)
 
-
-
 **NSSM**
-[NSSM - the Non-Sucking Service Manager](https://nssm.cc/)
+[NSSM - the Non-Sucking Service Manager](https://nssm.cc/) 管理windows平台的服务。
+
+
+## 搜索引擎
+**SearXNG**
+一款免费的互联网元搜索引擎，汇总了来自 70 多个搜索服务的结果，尊重隐私，不会跟踪或分析用户，可以在线匿名访问。
+[https://mp.weixin.qq.com/s/hQcYnoReN9DZIIiIl_6ojA](https://mp.weixin.qq.com/s/hQcYnoReN9DZIIiIl_6ojA) 
+[SearXNG maintenance — SearXNG Documentation (2024.12.29+c1bb0bebd)](https://docs.searxng.org/admin/update-searxng.html)
+
+**Serpapi**
+[https://serpapi.com/](https://serpapi.com/) 
+google search API
+
+
 
 
 
