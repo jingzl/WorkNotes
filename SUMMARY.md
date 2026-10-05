@@ -1,5 +1,4 @@
 - [前言](README.md)
-- 学习
-- [研发](研发/README.md)
+- [产品][Ideas]
 - [管理](管理/README.md)
-- 产品
+- [研发](研发/README.md)
