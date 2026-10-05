@@ -8,8 +8,12 @@
 因ClaudeCode及Codex的默认大模型受限，都需要通过代理切换使用国内的模型，代理工具有：
 FCC、CC-Switch
 
+- [Free-ClaudeCode](Free-ClaudeCode.md)
 
-FCC，CC-Swith，CherryStudio，
+
+
+
+CC-Swith，CherryStudio，
 NewAPI，OneAPI，Ollama，
 
 
