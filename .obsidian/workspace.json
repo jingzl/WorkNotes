@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78683fd1828e8293",
+        "id": "2672e412286388dd",
         "type": "tabs",
         "children": [
           {
-            "id": "cb883825f878d7ba",
+            "id": "ab63a7df2477b656",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研发/开源/开源收集.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "开源收集"
+              "title": "新标签页"
             }
           }
         ]
@@ -196,8 +192,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "cb883825f878d7ba",
+  "active": "ab63a7df2477b656",
   "lastOpenFiles": [
+    "管理/团队的准则.md",
+    "管理/case.md",
+    "管理/README.md",
+    "管理/XProgrammer非程序员.md",
+    "管理/管理原则.md",
+    "研发/开源/开源收集.md",
     "研发/AI/ClaudeCode/2. ClaudeCode使用.md",
     "研发/AI/ClaudeCode/1. ClaudeCode简介.md",
     "研发/AI/ClaudeCode/9. 常见问题.md",
@@ -207,7 +209,6 @@
     "README.md",
     "研发/WishList(电脑工具清单).md",
     "产品/Ideas.md",
-    "管理/README.md",
     "研发/README.md",
     "研发/AI/IDE/Free-ClaudeCode.md",
     "研发/assets/FCC-20261005173544.png",
@@ -224,11 +225,6 @@
     "研发/工具收集.md",
     "研发/AI/IDE",
     "研发/AI/大模型/OLLAMA.md",
-    "研发/AI/大模型/适合本地部署的大模型.md",
-    "管理/case.md",
-    "管理/case_2024.md",
-    "修炼/每天5句话.md",
-    "产品/如果有人投100W，我准备做什么？.md",
     "研发/AI/数字人",
     "研发/AI/大模型",
     "管理/公司管理",
